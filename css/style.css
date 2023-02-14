@@ -47,3 +47,7 @@
   h3, ul {
     margin-bottom: 40px;
   }
+
+  ul li {
+    margin: 15px 0;
+  }
