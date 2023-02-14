@@ -27,3 +27,8 @@
     max-width: 100%;
     height: auto;
   }
+
+  #tribute-info {
+    width: 60%;
+    margin: 0 auto;
+  }
