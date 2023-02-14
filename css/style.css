@@ -38,3 +38,8 @@
       width: 90%;
     }
   }
+
+  #tribute-info :not(h3) {
+    text-align: left;
+    line-height: 1.5rem;
+  }
